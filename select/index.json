@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Sociometry",
+  "base_artist": "KOTOKO",
+  "createdAt": "2025-12-29T02:21:59.500336Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sociometry",
+      "artist": "KOTOKO",
+      "has_synced": true,
+      "path": "select/01_Sociometry_KOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sociometry",
+      "artist": "KOTOKO",
+      "has_synced": true,
+      "path": "select/02_Sociometry_KOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sociometry",
+      "artist": "KOTOKO",
+      "has_synced": true,
+      "path": "select/03_Sociometry_KOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sociometry",
+      "artist": "KOTOKO",
+      "has_synced": true,
+      "path": "select/04_Sociometry_KOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sociometry (灼眼のシャナ)",
+      "artist": "ユミコ",
+      "has_synced": false,
+      "path": "select/05_Sociometry_(灼眼のシャナ)_ユミコ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sociometry",
+      "artist": "KOTOKO",
+      "has_synced": true,
+      "path": "select/06_Sociometry_KOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "KOTOKO - Sociometry（Audio）",
+      "artist": "KOTOKO",
+      "has_synced": true,
+      "path": "select/07_KOTOKO_-_Sociometry(Audio)_KOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sociometry",
+      "artist": "Shakugan no Shana",
+      "has_synced": false,
+      "path": "select/08_Sociometry_Shakugan_no_Shana.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "sociometry",
+      "artist": "KOTOKO",
+      "has_synced": false,
+      "path": "select/pl_01_sociometry_KOTOKO.txt"
+    }
+  ]
+}
